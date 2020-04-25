@@ -1,0 +1,20 @@
+{
+  "all": true,
+  "exclude": [
+    "coverage",
+    "dist/",
+    "src/tests",
+    "out"
+  ],
+  "check-coverage": true,
+  "branches": 5,
+  "lines": 5,
+  "functions": 5,
+  "statements": 5,
+  "watermarks": {
+    "lines": [5, 80],
+    "functions": [5, 80],
+    "branches": [5, 80],
+    "statements": [5, 80]
+  }
+}
